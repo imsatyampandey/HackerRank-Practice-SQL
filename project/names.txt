@@ -1,0 +1,9 @@
+hey satyam 
+dekha yaha likha woh 
+uss file mai chla gya 
+this is git 
+
+
+for exit 
+press ecs
+type :wq
